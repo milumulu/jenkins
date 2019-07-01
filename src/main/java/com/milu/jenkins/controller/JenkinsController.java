@@ -10,6 +10,6 @@ public class JenkinsController {
 
     @GetMapping("/getJenkinsTest")
     public String getTest() {
-        return "test";
+        return "test111";
     }
 }
